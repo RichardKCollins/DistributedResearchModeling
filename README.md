@@ -1,7 +1,10 @@
-# Particle Clicker
+# Distributed Research Modeling
 
-An addictive incremental game that teaches players the history of high energy particle physics.
+Particle Collision Statistics
+Particle Data Users
+Particle Technologies
+Funding Sources
+Advocates and Stakeholders
+The Original Model - Particle Clicker - Dynamic Analysis
 
-Developed during the 2014 CERN Webfest over a weekend.
-
-Visit [http://cern.ch/particle-clicker](http://cern.ch/particle-clicker) to play the game.
+Starting from CERN Particle Clicker Game
